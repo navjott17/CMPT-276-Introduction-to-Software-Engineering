@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="rows">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+
+    <integer-array name="columns">
+        <item>6</item>
+        <item>10</item>
+        <item>15</item>
+        <item>12</item>
+    </integer-array>
+
+    <integer-array name="num_mines">
+        <item>6</item>
+        <item>10</item>
+        <item>14</item>
+        <item>20</item>
+    </integer-array>
+
+    <integer name="default_rows">4</integer>
+
+    <integer name="default_columns">6</integer>
+
+    <integer name="default_mines">10</integer>
+</resources>

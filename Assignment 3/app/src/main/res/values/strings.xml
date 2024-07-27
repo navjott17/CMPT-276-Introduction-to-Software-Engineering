@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="author_names">author_names</string>
+    <string name="skip">SKIP</string>
+    <string name="game_name">game_name</string>
+    <string name="options_menu">options_menu</string>
+    <string name="help">HELP</string>
+    <string name="options">OPTIONS</string>
+    <string name="board_size">BOARD SIZE</string>
+    <string name="number_of_mines">NUMBER OF MINES</string>
+    <string name="reset">RESET</string>
+    <string name="option_text">option_text</string>
+    <string name="this_game_is_created_by_cmpt276_students">This game is created by CMPT276 students : Navjot Kaur (Computing Science) and Vishal Krishna (Computing Science). To learn more about CMPT276 click</string>
+    <string name="about_the_author">ABOUT THE AUTHOR</string>
+    <string name="the_theme_of_the_game_is_halloween">The theme of the game is Halloween. User selects the grid size and number of mines. You are introduced to a grid of buttons where some of them have pumpkins inside. When you click a button with a pumpkin, it explodes and a pumpkin is displayed. When you click a button with no pumpkin, then the number of pumpkins in the button\'s row and column is displayed. You can also click on exploded button to reveal the number of pumpkins in its row and column. You win when you find all the pumpkins. How good you are can be determined using the number of scans you use to finish the game. The lesser the better.</string>
+    <string name="how_to_play">HOW TO PLAY?</string>
+    <string name="references">REFERENCES</string>
+    <string name="link">
+        <a href= "https://opencoursehub.cs.sfu.ca/jackt/grav-cms/cmpt276-2/home">here.</a>
+    </string>
+    <string name="welcomeBackgroundLink">
+        <a href= "https://www.gamedevmarket.net/asset/halloween-background-game-2/">Welcome Page Background image.</a>
+    </string>
+    <string name="themeLink">
+        <a href="https://cooltext.com/Logo-Design-Fun">Theme image.</a>
+    </string>
+    <string name="creatorsLink">
+        <a href="https://cooltext.com/Logo-Design-Lava">Name of creators image.</a>
+    </string>
+    <string name="blackCatLink">
+        <a href="https://lottiefiles.com/9969-halloween-pumpkin-black-cat">Black cat animation.</a>
+    </string>
+    <string name="mainMenuLink">
+        <a href="https://www.ps4wallpapers.com/halloween-dark-background/">Main menu background image.</a>
+    </string>
+    <string name="spiderLink">
+        <a href="https://lottiefiles.com/10962-spider-2">Spider animation.</a>
+    </string>
+    <string name="playButtonLink">
+        <a href="https://lottiefiles.com/450-play-fill-loader">Play Button animation</a>
+    </string>
+    <string name="backgroundLink">
+        <a href="https://www.freepik.com/free-vector/dark-halloween-background-with-empty-space_9553732.htm">Background image for play,option and help page.</a>
+    </string>
+    <string name="OptionsHelpLink">
+        <a href="https://cooltext.com/Logo-Design-Tribal">Options,Help,Congrats,you won image.</a>
+    </string>
+    <string name="jumpingPumpkinLink">
+        <a href="https://lottiefiles.com/10142-halloween-pumpkin">Jumping Pumpkin animation.</a>
+    </string>
+    <string name="balloonLink">
+        <a href="https://lottiefiles.com/1663-balloons">Balloon animation.</a>
+    </string>
+    <string name="congratsLink">
+        <a href="https://lottiefiles.com/15108-confetti-banner">Congrats animation.</a>
+    </string>
+    <string name="pumpkinAsAMine">
+        <a href="https://www.seekpng.com/idown/u2a9o0i1r5u2e6a9_halloween-pumpkin-png/">Mine image.</a>
+    </string>
+    <string name="trick_treat">
+        <a href="https://lottiefiles.com/35261-halloween-or-halloween-also-known-as-allhalloween-all-hallows-eve-or-all-saints-eve">Trick or treat animation.</a>
+    </string>
+</resources>
