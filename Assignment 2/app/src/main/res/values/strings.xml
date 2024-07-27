@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Depth of Field Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_lens_detail">Lens Detail</string>
+    <string name="select_the_lens_to_use">Select the lens to use :</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ex_canon">ex: Canon</string>
+    <string name="make">Make</string>
+    <string name="focal_length_mm">Focal Length [mm]</string>
+    <string name="ex_200_for_200mm">ex: 200 for 200mm</string>
+    <string name="aperture">Aperture</string>
+    <string name="ex_2_8_for_f2_8_1">ex: 2.8 for F2.8</string>
+    <string name="near_focal_distance">Near Focal Distance</string>
+    <string name="far_focal_distance">Far Focal Distance</string>
+    <string name="depth_of_field">Depth of Field</string>
+    <string name="hyperfocal_distance">Hyperfocal Distance</string>
+    <string name="enter_all_values1">Enter all values</string>
+    <string name="enter_all_values2">Enter all values</string>
+    <string name="enter_all_values3">Enter all values</string>
+    <string name="enter_all_values4">Enter all values</string>
+    <string name="photo_details_with">Photo details with:</string>
+    <string name="circle_of_confusion_m">Circle of Confusion [m]</string>
+    <string name="distance_to_subject_m">Distance to subject [m]</string>
+    <string name="selected_aperture">Selected aperture</string>
+    <string name="ex_0_029_for_0_029m">ex: 0.029 for 0.029m</string>
+    <string name="ex_1_5_for_1_5m">ex: 1.5 for 1.5m</string>
+    <string name="ex_2_8_for_f2_8">ex: 2.8 for F2.8</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="optional_features">OPTIONAL FEATURES</string>
+    <string name="_1_edit_and_delete_lens">1. Edit and Delete Lens</string>
+    <string name="_2_error_checking_input">2. Error Checking Input</string>
+    <string name="_3_auto_recalculate">3. Auto-recalculate</string>
+    <string name="_4_save_data">4. Save Data</string>
+    <string name="_5_empty_state">5. Empty State</string>
+    <string name="_0_029">0.029</string>
+    <string name="automatically_calculates_when_all_fields_are_filled">Automatically Calculates when all fields are filled.</string>
+</resources>
